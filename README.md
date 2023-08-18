@@ -1,2 +1,2 @@
 # Cupcakepop
-Angular Website
+Angular Website GitHubpages
